@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-Sup.
-This is my very first repository
-Hopefully I'm gonna use github often =)
+Sup.<br>
+This is my very first repository<br>
+Hopefully I'm gonna use github often =)<br>
 Cya.
